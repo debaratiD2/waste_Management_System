@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\edge_course\\DotNET\\crudUsingReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\migrations\\20250105184356_addauthuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\migrations\\20250105184356_addauthuserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\migrations\\20250102041549_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\migrations\\20250102041549_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|d:\\edge_course\\dotnet\\crudusingreact\\crudusingreact\\crudusingreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96810FE6-16E5-47DE-BFB8-0677510BCD03}|crudUsingReact\\crudUsingReact.csproj|solutionrelative:crudusingreact\\crudusingreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "crudUsingReact\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:35:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250105184356_AddAuthUsersTable.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Migrations\\20250105184356_AddAuthUsersTable.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Migrations\\20250105184356_AddAuthUsersTable.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Migrations\\20250105184356_AddAuthUsersTable.cs",
+              "RelativeToolTip": "crudUsingReact\\Migrations\\20250105184356_AddAuthUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:43:56.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\AuthUser.cs",
+              "RelativeToolTip": "crudUsingReact\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:28:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Controllers\\UserController.cs",
+              "RelativeToolTip": "crudUsingReact\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:31:34.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250102041549_initial.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Migrations\\20250102041549_initial.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Migrations\\20250102041549_initial.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Migrations\\20250102041549_initial.cs",
+              "RelativeToolTip": "crudUsingReact\\Migrations\\20250102041549_initial.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:15:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Program.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Program.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Program.cs",
+              "RelativeToolTip": "crudUsingReact\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:48:18.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\appsettings.json",
+              "RelativeDocumentMoniker": "crudUsingReact\\appsettings.json",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\appsettings.json",
+              "RelativeToolTip": "crudUsingReact\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T18:28:27.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Models\\UserContext.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\UserContext.cs",
+              "RelativeToolTip": "crudUsingReact\\Models\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T18:19:22.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\User.cs",
+              "RelativeDocumentMoniker": "crudUsingReact\\Models\\User.cs",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\Models\\User.cs",
+              "RelativeToolTip": "crudUsingReact\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:33:22.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crudUsingReact.csproj",
+              "DocumentMoniker": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\crudUsingReact.csproj",
+              "RelativeDocumentMoniker": "crudUsingReact\\crudUsingReact.csproj",
+              "ToolTip": "D:\\edge_course\\DotNET\\crudUsingReact\\crudUsingReact\\crudUsingReact.csproj",
+              "RelativeToolTip": "crudUsingReact\\crudUsingReact.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T18:10:26.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
